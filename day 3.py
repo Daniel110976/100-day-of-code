@@ -22,13 +22,10 @@ else:
 # an operator is a symbol that tells the compiler to perform specific mathematical or logical manipulations
 # % - this is the modulus operator which returns the remainder of a division operation
 print(10 % 3)
-<<<<<<< HEAD
 print(10 / 3)
 # even numbers divided by 2 = 0
 
 # nested if/else statements = if statements inside another if statement
 
 # elif = else if allows us to check multiple conditions and can be used to create more complex conditional logic
-=======
 print(10 / 3)
->>>>>>> 6229440e7b888e47cdf5659c9d006bb597197ace
