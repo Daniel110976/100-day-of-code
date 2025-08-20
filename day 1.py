@@ -1,5 +1,4 @@
-
-
+# This is a simple Python script for day 1 of a coding challenge
 print("Hello, World\nMy first Python code!")
 print("This is day 1 of the coding challenge.")
 print("1. Mix 500g of Flour, 10g Yeast and 300ml Water in a bowl.")
