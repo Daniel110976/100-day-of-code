@@ -71,3 +71,5 @@ if height >= 120:
     print(f"Your final bill is ${bill:.2f}.")
 else:
     print("Sorry, you can't ride the rollercoaster.")
+
+
