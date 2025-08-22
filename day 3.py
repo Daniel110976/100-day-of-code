@@ -29,3 +29,10 @@ print(10 / 3)
 
 # elif = else if allows us to check multiple conditions and can be used to create more complex conditional logic
 print(10 / 3)
+
+# \' = this allows us to include a single quote character in a string
+# \" = this allows us to include a double quote character in a string
+# \n = this allows us to include a new line in a string
+# \t = this allows us to include a tab character in a string
+# \\ = this allows us to include a backslash character in a string
+# .lower() = this allows us to convert a string to lowercase
