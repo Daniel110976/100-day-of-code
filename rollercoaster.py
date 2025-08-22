@@ -17,11 +17,15 @@ if height >= 120:
         print("You can ride the Bumper Cars!")    
     age = int(input("What is your age? "))
     if age <= 12:
-        print("Child tickets are $5.")
         bill += 5
+        print("Child tickets are $5.")
+# Youth tickets are $7.
     elif age <= 18:
-        print("Youth tickets are $7.")
         bill += 7
+        print("Youth tickets are $7.")
+    elif age >= 45 and age <= 55:
+        print("Everything is going to be okay! You get a free ride!")
+# Adult tickets are $10.
     else:
         print("Adult tickets are $10.")
         bill += 10
