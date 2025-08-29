@@ -1,0 +1,50 @@
+# Core Python Tools
+ipython
+jupyter
+
+# Data Science & Visualization
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+
+# Web Development & APIs
+flask
+django
+requests
+python-dotenv
+
+# Web Scraping
+beautifulsoup4
+lxml
+selenium
+
+# Databases
+sqlalchemy
+
+# GUI / Automation
+pyautogui
+pillow
+
+# Fun & Terminal
+turtle
+pyfiglet
+colorama
+rich
+
+# Formatters
+black
+isort
+autopep8
+yapf
+
+# Linters / Type Checkers
+pylint
+flake8
+mypy
+bandit
+
+# Autocomplete Engine
+jedi
+rope
